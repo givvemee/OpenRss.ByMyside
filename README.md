@@ -25,6 +25,7 @@
 |  5 | 당근 테크 블로그 | [https://medium.com/daangn](https://medium.com/daangn)  | `ko`  |  live |
 |  6 |  토스 테크 | [https://toss.tech/](https://toss.tech/)  | `ko`  |  live |
 |  7 | 요기요 기술블로그 | [https://techblog.yogiyo.co.kr/](https://techblog.yogiyo.co.kr/)  | `ko`  |  live |
+|  8 | 뱅크샐러드 블로그 | [https://blog.banksalad.com/](https://blog.banksalad.com/)  | `ko`  |  live |
 
 
 <br />
