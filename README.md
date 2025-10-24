@@ -22,7 +22,10 @@
 |  3 |  Danggn Tech Blog | [https://medium.com/feed/daangn](https://medium.com/feed/daangn)  | `ko`  | live  |
 |  4 |  우아한 형제들 기술블로그 | [https://techblog.woowahan.com/feed/](https://techblog.woowahan.com/feed/)  | `ko`  |  live |
 |  5 | 컬리 기술 블로그  | [http://thefarmersfront.github.io/feed.xml](http://thefarmersfront.github.io/feed.xml)  | `ko`  | live  |
-|  6 |   |   |   |   |
+|  6 | 당근 테크 블로그 | [https://medium.com/daangn](https://medium.com/daangn)  | `ko`  |  live |
+|  7 |  토스 테크 | [https://toss.tech/](https://toss.tech/)  | `ko`  |  live |
+|  8 | 요기요 기술블로그 | [https://techblog.yogiyo.co.kr/](https://techblog.yogiyo.co.kr/)  | `ko`  |  live |
+
 
 <br />
 
